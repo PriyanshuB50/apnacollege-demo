@@ -1,2 +1,2 @@
 # apnacollege-demo
-this is my repositorey
+this is my repository
